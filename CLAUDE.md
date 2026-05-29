@@ -1,0 +1,7 @@
+luma captureのデータを全てexportしたいです。
+これを行うためにplaywright mcpを使って実際の操作時の通信を解析して、全てのcaptureをダウンロードするコードを書いて。
+https://lumalabs.ai/dashboard/capturesから全てのcaptureが閲覧できます。
+Your capturesのセクションが私のキャプチャです。
+show moreを繰り返さないと全てのcaptureは見られないです。
+ダウンロードボタンを押した際に形式が選択できるので、コードの実行時にそれらを最初に選択させるようにして、その形式で全てダウンロードするようにしてください。
+Features Capturesとかは他人のcaptureなのでダウンロードしないでください。
